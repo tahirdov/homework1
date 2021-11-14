@@ -1,8 +1,7 @@
 something
 
-here we crash
+I change this line
 what we gonna do
-
+deleted the last line
 another line on the wall
 looop
-something else
